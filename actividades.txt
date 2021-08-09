@@ -1,0 +1,13 @@
+Realizar el algoritmo y pseudocódigo de los siguientes ejercicio.
+
+ a) Ingresar un número y mostrar el cuadrado del mismo.
+
+ b) Ingresar dos números por teclado. Si ambos son iguales, imprimir el mensaje "DE IGUAL VALOR", en caso contrario imprimir "HAY DESIGUALDAD". 
+
+c) Ingresar 2 números (A y B) e informar : 
+
+• el resultado del producto (A*B), 
+
+• el resultado de la suma (A + B) 
+
+• Informar el resultado de mayor valor. (ante una igualdad informar cualquiera)
